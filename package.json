@@ -1,0 +1,12 @@
+{
+  "name": "emotion-render-styles-to-string",
+  "version": "9.2.6",
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "peerDependencies": {
+    "emotion": "^9.2.6"
+  }
+}
